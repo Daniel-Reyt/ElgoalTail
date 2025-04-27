@@ -83,3 +83,18 @@ html {
     overflow-y: auto;
     scroll-behavior: smooth;
 }
+
+.localeselect {
+    width: 80px;
+    height: 50px;
+    padding: 5px;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+}
+
+.langue_icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
