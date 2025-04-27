@@ -1,0 +1,1 @@
+# ElgoalTail Privacy Policy page
